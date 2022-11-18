@@ -1,7 +1,14 @@
 ![](https://img.shields.io/badge/ReactWebsite-blueviolet)
 
 # React Website
-It's a fully developed website built with React.js functional components, CSS Grid & Flex, Animations, Gradients.
+It's a fully developed website built with React.js functional components, CSS Grid &amp; Flex, Animations, Gradients.
+- React functional components
+- React file & folder structure
+- CSS Flex & Grid
+- Fundamentals of CSS BEM Models
+- Soft & Pleasant Animations
+- Complex Gradients 
+- Media Queries
 
 ## Built With
 
@@ -19,6 +26,8 @@ It's a fully developed website built with React.js functional components, CSS Gr
 - webpack
 - web server
 - plugins for HTML and CSS
+
+![screenshot](gpt3-preview.png)
 
 ## Live Demo
 
